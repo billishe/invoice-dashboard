@@ -6,7 +6,7 @@ Built using:
 - Livewire 3 (and Alpine JS)
 - Tailwind CSS 4.0
 
-## Steps
+## Steps To Run 
 
 ```bash
 cd invoice-dashboard
